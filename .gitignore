@@ -1,0 +1,9 @@
+# Build files
+*.exe
+*.obj
+*.o
+*.out
+*.log
+
+# VS Code settings
+.vscode/
